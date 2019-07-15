@@ -1,0 +1,52 @@
+(SAVE PACK CREATED BY XCIER-FREEDOM)
+
+Dropper "NextGen" - 3k items in the backpack.
+Gives you instant trophies if you don't have them. UVHM
+requires 1 mission to turn in and it will give you 
+DID IT ALL. Willow.Menu has a EXP lobby on it. 
+
+Dropper "LastGen" - 150 items/weapons in the backpack.
+Gives you instant trophies if you don't have them. UVHM
+requires 1 mission to turn in and it will give you 
+DID IT ALL. Willow.Menu has a EXP lobby on it. 
+
+Hybrid Characters - Contains Hybrids on Normal, True,
+and Ultimate Vault Hunter Mode. Has an Exp lobby on PT4.
+Has to be "Reloaded" after every use.
+
+Normal Modded Characters - These characters are OP8
+with a full skill tree, unlimited ammo, and all playthroughs
+unlocked.
+
+Legit Characters - Legit ammo aswell as skill trees.
+Good for starting players who want to get used to the 
+game before they play with modded items.
+
+Level 1 Modded characters: These characters are level one
+with a full skill tree, unlimited ammo, and all playthroughs
+unlocked, but not completed.
+
+Customization - 2 saves to prevent the game from crashing.
+One save contains the head and skin dropper the other contains
+a vehicle skin dropper. Mission Rewards are for lastgen/PC.
+Nextgen has 688 heads/skins and PC/lastgen has 713 
+
+Level 100/125 lobby - PT4 "willow.menu" is level 100/125
+Has tons of mission that haven't been accepted so you can
+play through the game with much harder difficulty. If you want
+to have more fun try importing the mission data from a hybrid
+character save then pushing PlayThrough 3 to the forth slot. 
+
+Currency dropper - Contains droppable: Eridium, Seraph Crystals,
+Torgue Tokens, and money Save LOAD contains all Currencies
+Spam X when on mission reward to get a max money sellable item.
+
+Modded Character Level - Characters that have levels over 72.
+Can not join other players online and levels reset when 
+game starts.
+
+Profile - 150 million badass rank. This does not carry %
+to PS4 (If you have Xbox or PC use the GPD editor).-
+https://www.se7ensins.com/forums/threads/borderlands-2-gpd-editor-v2-3-0-5.858397/
+
+(SAVE PACK CREATED BY XCIER-FREEDOM/ProtoBuffers)
