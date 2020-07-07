@@ -108,3 +108,8 @@ Fixed Borderlands 2 profile saves from showing "USER" lock.
 Fixed Borderlands 2 x360 hyrbid saves from freezing on load.
 Merged PS4 Profiles in
 Added saves for the new dlc
+
++++++++++++++++++++++++++++++++ 
+Moved to git
+
+
