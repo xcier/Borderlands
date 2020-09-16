@@ -1,0 +1,29 @@
+Tools used:
+
+PS3:
+Flatz Bruteforce Save Data (4.7.4)
+https://mega.nz/#!hpgViKSB!jj_UjWjrykwz4lx762cf2z5JQkDZCXW1hH6g-gFOpLA
+
+----------------------------------------------------------------------
+PS4:
+
+PS4 save mounter
+https://www.psxhax.com/threads/playstation-4-save-mounter-homebrew-utility-by-chendochap.6076/
+
+FTP tool
+https://filezilla-project.org/
+
+Al Azif exploit
+DNS:
+165.227.83.145
+192.241.221.79
+
+----------------------------------------------------------------------
+Extras:
+
+Gibbed Save Editor (BL2/TPS)
+https://github.com/gibbed/
+
+http://sparfires.imgur.com (Gibbed codes)
+
+https://www.se7ensins.com/forums/forums/borderlands-2.373 (help)
